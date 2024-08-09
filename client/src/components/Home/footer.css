@@ -1,0 +1,19 @@
+.hero-footer {
+    background-color: #0f0f0f;
+    display: flex;
+}
+
+.footer-stats{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+    padding: 10px;
+    color: white;
+}
+
+.footer-stats span{
+    font-size: bold;
+    color: #054BB0;
+}
+
