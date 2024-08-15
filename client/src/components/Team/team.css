@@ -1,0 +1,50 @@
+
+
+#team {
+    background-color: black;
+    padding: 20px 0;
+}
+#team h2 {
+    padding: 30px 20px 20px 20px;
+}
+
+#team h2, p{
+    text-align: center;
+    color: white;
+}
+
+#team p {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.row-team {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1%;
+}
+
+.col {
+    width: 32%;
+    margin-bottom: 10px;
+}
+
+.btn-group {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.btn-group button {
+    width: 49%;
+    height: 30px;
+}
+
+.btn-group .adjust-btn {
+    width: 25%;
+}

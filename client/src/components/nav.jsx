@@ -24,8 +24,8 @@ const Nav = () => {
         },
         {
             id: 3,
-            name: "Contact Us",
-            ids: "contact"
+            name: "Services",
+            ids: "service"
         },
     ]
 
